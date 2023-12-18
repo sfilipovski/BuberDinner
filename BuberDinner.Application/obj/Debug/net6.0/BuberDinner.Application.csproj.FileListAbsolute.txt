@@ -13,3 +13,4 @@ C:\Users\pc\source\repos\BuberDinner\BuberDinner.Application\obj\Debug\net6.0\Bu
 C:\Users\pc\source\repos\BuberDinner\BuberDinner.Application\obj\Debug\net6.0\refint\BuberDinner.Application.dll
 C:\Users\pc\source\repos\BuberDinner\BuberDinner.Application\obj\Debug\net6.0\BuberDinner.Application.pdb
 C:\Users\pc\source\repos\BuberDinner\BuberDinner.Application\obj\Debug\net6.0\ref\BuberDinner.Application.dll
+C:\Users\pc\source\repos\BuberDinner\BuberDinner.Application\obj\Debug\net6.0\BuberDinner.Application.sourcelink.json

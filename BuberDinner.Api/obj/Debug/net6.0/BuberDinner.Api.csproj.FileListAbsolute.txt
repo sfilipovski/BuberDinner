@@ -33,3 +33,4 @@ C:\Users\pc\source\repos\BuberDinner\BuberDinner.Api\obj\Debug\net6.0\BuberDinne
 C:\Users\pc\source\repos\BuberDinner\BuberDinner.Api\obj\Debug\net6.0\ref\BuberDinner.Api.dll
 C:\Users\pc\source\repos\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\BuberDinner.Infrastructure.dll
 C:\Users\pc\source\repos\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\BuberDinner.Infrastructure.pdb
+C:\Users\pc\source\repos\BuberDinner\BuberDinner.Api\obj\Debug\net6.0\BuberDinner.Api.sourcelink.json
