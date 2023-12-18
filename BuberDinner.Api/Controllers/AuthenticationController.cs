@@ -10,6 +10,7 @@ namespace BuberDinner.Api.Controllers
     {
         private readonly IAuthenticationService _authService;
 
+
         public AuthenticationController(IAuthenticationService authService)
         {
             _authService = authService;

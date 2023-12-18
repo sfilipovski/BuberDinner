@@ -2,8 +2,8 @@ POST https://localhost:7086/auth/register
 Content-Type: application/json
 
 {
-  "firstName":"first",
+  "firstName":"firstn",
   "lastName":"last",
   "email":"email@email.com",
-  "password":"pass"
+  "password":"asdf!32dfasdfac"
 }
