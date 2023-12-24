@@ -1,4 +1,5 @@
-﻿using System;
+﻿using BuberDinner.Domain.Entities;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,5 +9,5 @@ namespace BuberDinner.Application.Common.Interfaces.Authentication;
 
 public interface IJwtTokenGenerator
 {
-    string CreateToken(Guid userId, string firstName, string lastName); 
+    string CreateToken(User user); 
 }
